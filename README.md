@@ -22,9 +22,15 @@ Built at work for a client, so the code is private; this section describes how t
 | [Influencer–Sponsor Platform](https://github.com/SARIM008/Sponsor-influencer-Management-Platform) | 🏆 Best Course Project, Modern Application Development I, IIT Madras. Campaign marketplace with admin, sponsor and influencer roles, two-way ad requests, and admin moderation. | Flask, SQLAlchemy, SQLite, Jinja |
 | [DSA in Python](https://github.com/SARIM008/Striver-dsa-python) | Data structures and algorithms practice following Striver's A2Z DSA Sheet, organised by topic. | Python |
 
+## Cloud & MLOps (IIT Madras MLOps course; graded exam work, so the code stays private)
+
+- Deployed a containerised Flask model API to Google Kubernetes Engine: Docker image in Artifact Registry, LoadBalancer service, readiness and liveness probes, Horizontal Pod Autoscaling, GitHub Actions CI/CD, and load testing.
+- Built an end-to-end ML pipeline with DVC (Google Cloud Storage remote), a Feast feature store, MLflow experiment tracking and model registry, pytest checks, and CML reports on pull requests.
+- Explained models with SHAP and checked fairness with Fairlearn.
+
 ## Skills
 
-Python · FastAPI · SQL/PostgreSQL · LLMs/Gemini · Evals · Celery · Redis · Docker · Google Cloud · React/TypeScript
+Python · FastAPI · SQL/PostgreSQL · LLMs/Gemini · Evals · Celery · Redis · Docker · Kubernetes · Google Cloud · React/TypeScript
 
 ## Awards
 
