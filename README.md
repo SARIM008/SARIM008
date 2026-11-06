@@ -5,7 +5,7 @@ ML Engineer building production AI systems (LLM workflows, evals, backend).
 ## Featured work: AbhiGhar AI assistant (production)
 
 A production Gemini chatbot for a Pune real-estate platform, live at [abhighar.com](https://abhighar.com).
-The code is private, so this is a description only.
+Built at work for a client, so the code is private; this section describes how the system works.
 
 - **Design:** the LLM only extracts intent and entities through a fixed schema; deterministic code owns every action and every fact.
 - **Evals:** 885-message eval set; intent accuracy improved from 80% to 91%.
